@@ -1,6 +1,6 @@
 {
   "name": "@samfp/pi-steering-hooks",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Deterministic tool-call guardrails for pi — enforce rules with before-tool hooks instead of prompts. Zero token cost, 100% reliability.",
   "keywords": [
     "pi-package",
